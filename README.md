@@ -7,6 +7,7 @@ Also Host Your web projects (HTML/CSS/JS) locally !
 
 
 ## Diclamber
+
 Use this app for fun and development porposes, not production
 
 ## Features
@@ -48,6 +49,7 @@ Use this app for fun and development porposes, not production
 2. After Successfull Start, go to http://<your_local_ip_address>:8000 (link will be shown in the program :D)
 
 ### Test Screenshot:
+
 ![Screenshot 2024-02-02 030244](https://github.com/Egypt-Open-Source/PyShare/assets/72279810/6884660c-bf40-4821-b8a3-6c48fb0d7e4d)
 
 
