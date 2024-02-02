@@ -63,3 +63,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Special thanks to [PySimpleGUI](https://pysimplegui.readthedocs.io/) for providing an easy way to create GUIs with Python.
 
+## Credits
+- The admin and The original Creator of this project is [Loay Mohamed (@zoroxide)](https://github.com/zoroxide)
+
