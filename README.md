@@ -57,6 +57,11 @@ Use this app for fun and development porposes, not production
 
 If you would like to contribute to PyShare, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## TODO
+- [x] add a GUI Support
+- [ ] add HTTP EVENTS to the GUI instead of CLI
+- [ ] Fixing the Windows Timeout (No response) 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
