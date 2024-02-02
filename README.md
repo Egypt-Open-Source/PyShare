@@ -1,6 +1,10 @@
 # PyShare - Share Your Files locally With your friends !
 
 PyShare is a simple tool that allows you to share files locally with your friends using a basic Python server and a user-friendly GUI.
+Also Host Your web projects (HTML/CSS/JS) locally ! 
+
+## Diclamber
+Use this app for fun and development porposes, not production
 
 ## Features
 
