@@ -20,11 +20,13 @@ def main():
         if event == sg.WINDOW_CLOSED:
             break
         elif event == "Start":
+            
             file_path = values["file_path"]
             sg.popup(f"Server will Start and Listen in http://{SERVER_HOST}:{SERVER_PORT}", title="START SERVER ALERT")
             start_server(file_path, SERVER_HOST,SERVER_PORT)
         elif event == "Shutdown":
             shutdown_server(SERVER_HOST, SERVER_PORT)
+            window.FindElement("Start").Update(disabled=True)
 
 
     window.close()
