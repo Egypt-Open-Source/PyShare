@@ -43,10 +43,3 @@ def start_server(htmlpath, host, port):
         print(f"Error Starting Server: {e}")
 
 
-def shutdown_server(host, port):
-    try:
-        server_address = (host, port)
-        httpd = TCPServer(server_address, SimpleHTTPRequestHandler)
-        httpd.shutdown()
-    except Exception as e:
-        print(f"Error Shutting Down Server: {e}")
