@@ -12,7 +12,7 @@ def main():
         [sg.Button("Start", size=(10, 1)), sg.Button("Shutdown", size=(10, 1))]
     ]
 
-    # Create the window
+    # Create the window for the server
     window = sg.Window("HTTP SERVER", layout, resizable=True)
 
     while True:
